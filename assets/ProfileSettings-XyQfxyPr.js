@@ -1,4 +1,4 @@
-import{c as o,u as H,a as z,r as u,j as e,B as r,s as R}from"./index-D_bH2_jr.js";import{X as G,S as I,C as N,b as B,F as D}from"./FaceVerification-D5lGtdiy.js";import{A as k,m as p,U as w,L as T}from"./proxy-BogJ6eN_.js";import{M as U,I as q}from"./LanguageSwitcher-Bg4PvUfv.js";/**
+import{c as o,u as H,a as z,r as u,j as e,B as r,s as R}from"./index-CgCKU8-Z.js";import{X as G,S as I,C as N,b as B,F as D}from"./FaceVerification-CgSyfwY0.js";import{A as k,m as p,U as w,L as T}from"./proxy-Bke3M5cg.js";import{M as U,I as q}from"./LanguageSwitcher-Boj6BBSk.js";/**
  * @license lucide-react v0.468.0 - ISC
  *
  * This source code is licensed under the ISC license.
